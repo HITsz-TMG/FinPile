@@ -91,7 +91,7 @@ python 6_text_dedup/text_dedup/minhash.py \
 ```
 
 ### 7. Financial relevance filtering and security risk filtering
-Using a financial relevance classifier (🤗[(fin-model-zh-v0.1)](https://huggingface.co/HIT-TMG/fin-model-zh-v0.1) and [(fin-model-en-v0.1)](https://huggingface.co/HIT-TMG/fin-model-en-v0.1)) and a security risk identification classifier (🤗[(risk-model-zh-v0.1)](https://huggingface.co/HIT-TMG/risk-model-zh-v0.1) and [(risk-model-en-v0.1)](https://huggingface.co/HIT-TMG/risk-model-en-v0.1)), we filter out high-quality financial corpus.
+Using a financial relevance classifier (🤗[fin-model-zh-v0.1](https://huggingface.co/HIT-TMG/fin-model-zh-v0.1) and [fin-model-en-v0.1](https://huggingface.co/HIT-TMG/fin-model-en-v0.1)) and a security risk identification classifier (🤗[risk-model-zh-v0.1](https://huggingface.co/HIT-TMG/risk-model-zh-v0.1) and [risk-model-en-v0.1](https://huggingface.co/HIT-TMG/risk-model-en-v0.1)), we filter out high-quality financial corpus.
 
 
 
