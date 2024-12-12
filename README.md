@@ -1,5 +1,5 @@
-# FinPile
-Data and tools for generating and inspecting FinPile, a safe, high-quality, open-sourced Chinese financial corpus.
+# YiZhao
+Data and tools for generating and inspecting YiZhao, a safe, high-quality, open-sourced bilingual financial corpus (Chinese, English).
 
 ## 🌟 Environment
 Our recommended Python version is **3.11.4**. 
